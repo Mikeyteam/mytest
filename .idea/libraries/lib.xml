@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Distr/spring-framework-3.0.2.RELEASE-with-docs/spring-framework-3.0.2.RELEASE/src/org.springframework.instrument-sources-3.0.2.RELEASE.jar!/" />
+      <root url="jar://C:/Distr/spring-framework-3.0.2.RELEASE-with-docs/spring-framework-3.0.2.RELEASE/src/org.springframework.expression-sources-3.0.2.RELEASE.jar!/" />
+      <root url="jar://C:/Distr/spring-framework-3.0.2.RELEASE-with-docs/spring-framework-3.0.2.RELEASE/src/org.springframework.jdbc-sources-3.0.2.RELEASE.jar!/" />
+      <root url="jar://C:/Distr/spring-framework-3.0.2.RELEASE-with-docs/spring-framework-3.0.2.RELEASE/src/org.springframework.instrument.tomcat-sources-3.0.2.RELEASE.jar!/" />
+      <root url="jar://C:/Distr/spring-framework-3.0.2.RELEASE-with-docs/spring-framework-3.0.2.RELEASE/src/org.springframework.orm-sources-3.0.2.RELEASE.jar!/" />
+      <root url="jar://C:/Distr/spring-framework-3.0.2.RELEASE-with-docs/spring-framework-3.0.2.RELEASE/src/org.springframework.jms-sources-3.0.2.RELEASE.jar!/" />
+      <root url="jar://C:/Distr/spring-framework-3.0.2.RELEASE-with-docs/spring-framework-3.0.2.RELEASE/src/org.springframework.test-sources-3.0.2.RELEASE.jar!/" />
+      <root url="jar://C:/Distr/spring-framework-3.0.2.RELEASE-with-docs/spring-framework-3.0.2.RELEASE/src/org.springframework.oxm-sources-3.0.2.RELEASE.jar!/" />
+      <root url="jar://C:/Distr/spring-framework-3.0.2.RELEASE-with-docs/spring-framework-3.0.2.RELEASE/src/org.springframework.web-sources-3.0.2.RELEASE.jar!/" />
+      <root url="jar://C:/Distr/spring-framework-3.0.2.RELEASE-with-docs/spring-framework-3.0.2.RELEASE/src/org.springframework.transaction-sources-3.0.2.RELEASE.jar!/" />
+      <root url="jar://C:/Distr/spring-framework-3.0.2.RELEASE-with-docs/spring-framework-3.0.2.RELEASE/src/org.springframework.web.servlet-sources-3.0.2.RELEASE.jar!/" />
+      <root url="jar://C:/Distr/spring-framework-3.0.2.RELEASE-with-docs/spring-framework-3.0.2.RELEASE/src/org.springframework.web.portlet-sources-3.0.2.RELEASE.jar!/" />
+      <root url="jar://C:/Distr/spring-framework-3.0.2.RELEASE-with-docs/spring-framework-3.0.2.RELEASE/src/org.springframework.web.struts-sources-3.0.2.RELEASE.jar!/" />
+      <root url="jar://C:/Distr/spring-framework-3.0.2.RELEASE-with-docs/spring-framework-3.0.2.RELEASE/src/org.springframework.aop-sources-3.0.2.RELEASE.jar!/" />
+      <root url="jar://C:/Distr/spring-framework-3.0.2.RELEASE-with-docs/spring-framework-3.0.2.RELEASE/src/org.springframework.asm-sources-3.0.2.RELEASE.jar!/" />
+      <root url="jar://C:/Distr/spring-framework-3.0.2.RELEASE-with-docs/spring-framework-3.0.2.RELEASE/src/org.springframework.aspects-sources-3.0.2.RELEASE.jar!/" />
+      <root url="jar://C:/Distr/spring-framework-3.0.2.RELEASE-with-docs/spring-framework-3.0.2.RELEASE/src/org.springframework.beans-sources-3.0.2.RELEASE.jar!/" />
+      <root url="jar://C:/Distr/spring-framework-3.0.2.RELEASE-with-docs/spring-framework-3.0.2.RELEASE/src/org.springframework.context-sources-3.0.2.RELEASE.jar!/" />
+      <root url="jar://C:/Distr/spring-framework-3.0.2.RELEASE-with-docs/spring-framework-3.0.2.RELEASE/src/org.springframework.context.support-sources-3.0.2.RELEASE.jar!/" />
+      <root url="jar://C:/Distr/spring-framework-3.0.2.RELEASE-with-docs/spring-framework-3.0.2.RELEASE/src/org.springframework.core-sources-3.0.2.RELEASE.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib" recursive="false" />
+  </library>
+</component>
